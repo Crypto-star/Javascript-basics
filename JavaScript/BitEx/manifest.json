@@ -1,0 +1,12 @@
+{
+  "name": "BitEx",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "Chrome Extension which tracks Bitcoin prices",
+  "browser_action": {
+    "default_name": "BitEx",
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
