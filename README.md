@@ -1,4 +1,4 @@
-# Javascript-basics
+# Basics Of JavaScript
 
 **This Repo Consistes on basic Projects on JAVASCRIPT**
 
