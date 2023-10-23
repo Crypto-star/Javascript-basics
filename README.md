@@ -1,6 +1,6 @@
 # Web Development Projects 
 
-**This Repo Consistes on basic Projects on JAVASCRIPT**
+**This Repo Consistes on basic Projects Made using JAVASCRIPT, HTML And CSS**
 
 _Contents_
 
